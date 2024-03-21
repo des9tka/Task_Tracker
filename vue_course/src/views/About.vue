@@ -16,6 +16,6 @@ export default {
   margin-top: 5%;
 }
 h3 {
-  margin: 5% 0% 5%;
+  margin: 5% 0 5%;
 }
 </style>

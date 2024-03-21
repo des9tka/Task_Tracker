@@ -8,17 +8,8 @@
 export default {
   name: "Settings",
   props: ['button_show'],
-  methods: {
-    show_button() {
-      const settings_button = document.getElementsByClassName('settings_button')
-      console.log(settings_button)
-      settings_button.innerText = "Button "
-
-    }
-  },
-  created() {
-    this.show_button()
-  },
+  methods: {},
+  created() {},
 }
 </script>
 
